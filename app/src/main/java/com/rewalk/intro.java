@@ -30,6 +30,7 @@ public class intro extends RewalkBaseActivity {
 
         IntroIcon = (ImageView)findViewById(R.id.introicon);
 
+        /**/
         IntroIcon.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
