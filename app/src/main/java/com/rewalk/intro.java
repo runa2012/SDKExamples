@@ -2,16 +2,12 @@ package com.rewalk;
 
 import android.app.ActivityOptions;
 import android.content.Intent;
-import android.graphics.Color;
-import android.graphics.drawable.ColorDrawable;
 import android.os.Build;
 import android.os.Bundle;
-import android.os.CountDownTimer;
 import android.support.annotation.Nullable;
 import android.transition.Fade;
 import android.transition.Transition;
 import android.view.View;
-import android.view.Window;
 import android.widget.ImageView;
 
 import com.rewalk.Base.RewalkBaseActivity;
@@ -60,5 +56,9 @@ public class intro extends RewalkBaseActivity {
         super.onResume();
     }
 
+    public void testest(){
+
+
+    }
 
 }
